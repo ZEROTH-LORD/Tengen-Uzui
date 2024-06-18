@@ -78,11 +78,9 @@ python3 -m TengenUzui         # 8. Run the Bot
 <h1 align="center"><img src="./.github/yae-miko.gif" /></h1>
 
 ## CREDITS
-+ [PaulSonOfLars](https://github.com/PaulSonOfLars)
-+ [lostb053](https://github.com/lostb053) > Anime
-+ [TheHamkerCat](https://github.com/TheHamkerCat) > Python-Arq
-+ [ProjectCodeX](https://github.com/Team-ProjectCodeX) > Modules
++ [ZEROTH](https://github.com/TheHamkerCat) > Re-Coder
++ [ProjectCodeX](https://github.com/Team-ProjectCodeX) > Reference
 
-Others in the commit history and files. If anything is missing, feel free to  [![gmail](https://img.shields.io/badge/mail-Here-red?style=for-the-badge&logo=gmail)](mailto:makandu2054@gmail.com)  or submit a pull request.
+Others in the commit history and files. If anything is missing, feel free to  [![gmail](https://img.shields.io/badge/mail-Here-red?style=for-the-badge&logo=gmail)](mailto:animewithdev0001@gmail.com)  or submit a pull request.
 
-> Try this bot [@TengenUzui_Roxbot](https://t.me/TengenUzui_Roxbot); it's made with this repository for demonstration purposes.
+> Try this bot [@TengenUzui_Robot](https://t.me/TengenUzui_Robot); it's made with this repository for demonstration purposes.
