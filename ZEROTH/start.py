@@ -39,7 +39,7 @@ PM_START_TEXT = "🍃ɪ ᴀᴍ ᴛᴇɴɢᴇɴ ᴜᴢᴜɪ,ɪɴsᴘɪʀᴇᴅ ʙ
 START_BTN = [
     [
         InlineKeyboardButton(
-            text="⇦ ADD ME ⇨",
+            text="➕ ᴀᴅᴅ ᴍᴇ ɪɴ ʏᴏᴜʀ ɢʀᴏᴜᴘs ➕",
             url=f"https://t.me/{BOT_USERNAME}?startgroup=true",
         ),
     ],
@@ -59,7 +59,7 @@ START_BTN = [
 GROUP_START_BTN = [
     [
         InlineKeyboardButton(
-            text="⇦ ADD ME ⇨",
+            text="➕ ᴀᴅᴅ ᴍᴇ ɪɴ ʏᴏᴜʀ ɢʀᴏᴜᴘs ➕",
             url=f"https://t.me/{BOT_USERNAME}?startgroup=true",
         ),
     ],
@@ -76,14 +76,14 @@ ALIVE_BTN = [
     ],
     [
         ib(
-            text="⇦ ADD ME ⇨",
+            text="➕ ᴀᴅᴅ ᴍᴇ ɪɴ ʏᴏᴜʀ ɢʀᴏᴜᴘs ➕",
             url=f"https://t.me/{BOT_USERNAME}?startgroup=true",
         ),
     ],
 ]
 
 HELP_STRINGS = """
-🫧 *Yae-Miko* 🫧
+🫧 *Tengen-Uzui* 🫧
 
 ☉ *Here, you will find a list of all the available commands.*
 
